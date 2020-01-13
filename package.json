@@ -52,7 +52,7 @@
     "react-use": "13.12.2",
     "reactstrap": "8.2.0",
     "recharts": "1.8.5",
-    "styled-components": "4.4.1",
+    "styled-components": "5.0.0",
     "styled-icons": "9.1.0",
     "styled-media-query": "2.1.2"
   },
@@ -76,7 +76,7 @@
     "babel-plugin-dynamic-import-node": "2.3.0",
     "babel-plugin-lodash": "3.3.4",
     "babel-plugin-recharts": "1.2.0",
-    "babel-plugin-styled-components": "1.10.0",
+    "babel-plugin-styled-components": "1.10.6",
     "babel-plugin-transform-imports": "2.0.0",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24",
     "browserslist": "4.8.2",
